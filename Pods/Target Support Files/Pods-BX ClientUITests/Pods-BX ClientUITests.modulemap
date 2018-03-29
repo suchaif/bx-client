@@ -1,0 +1,6 @@
+framework module Pods_BX_ClientUITests {
+  umbrella header "Pods-BX ClientUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
